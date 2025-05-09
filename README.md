@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @infinitytops
 - 👀 I’m interested in python(Machine learning and data science)
 - 🌱 I’m currently learning studying python 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any ML or data science learning exercises
 - 📫 How to reach me ig@infinitytops
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: ...
